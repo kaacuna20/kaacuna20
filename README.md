@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello! I'm a Python Backend Developer with a passion for crafting efficient and scalable web applications. With a background in Mechanical Engineering from Colombia, I bring a unique perspective to software development, combining strong analytical skills, logical reasoning, and a knack for problem-solving.<br><br>My expertise includes:<br><br>Web Scraping: Proficient in using Selenium and BeautifulSoup to extract and manipulate data from the web.<br>Frameworks: Experienced in developing robust backend systems using Django, Flask, and FastAPI.<br>API Development: Skilled in designing and implementing RESTful APIs.<br>Object-Oriented Programming (OOP): Strong understanding of OOP principles to create maintainable and reusable code.<br>Having transitioned from engineering to backend development, I leverage my engineering background to approach coding with precision and a structured mindset. I'm always eager to learn and contribute to open-source projects, collaborate with fellow developers, and tackle challenging problems.<br><br>Let's build something amazing together!
 
 
